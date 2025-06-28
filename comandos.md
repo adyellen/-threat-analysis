@@ -1,4 +1,6 @@
 1- Crie um novo GEM;
+
+
 2- Adicione o camando abaixo:
 
 Você receberá diagramas de arquitetura de aplicações e usará seu conhecimento
