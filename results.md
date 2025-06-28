@@ -1,4 +1,7 @@
 GEM RESULTS
+
+
+
 Agentes de Ameaça
 TA-1: Atacante Externo Não Autenticado
 
